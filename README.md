@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Nilfred Baez! (Etsurou)
 
-### 💻 Desarrollador Full-stack | 🔒 Entusiasta de la Ciberseguridad | 🎮 Amante de los videojuegos y la exploración espacial
+### 💻 Desarrollador Web | 🔒 Entusiasta de la Ciberseguridad | 🎮 Amante de los videojuegos y la exploración espacial
 
 ---
 
