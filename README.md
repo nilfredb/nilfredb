@@ -50,9 +50,9 @@ Soy un apasionado de la tecnología con experiencia en desarrollo web, auditorí
 ---
 
 ## 💌 Contáctame
-- 🌐 [LinkedIn](https://linkedin.com/in/nilfred-baez) _(opcional)_
-- 📧 **nbaez414@gmail.com** _(cambia este correo por uno real)_
-- 🐦 [Twitter](https://x.com/leonardoDroii) _(opcional)_
+- 🌐 [LinkedIn](https://linkedin.com/in/nilfred-baez) 
+- 📧 **nbaez414@gmail.com**
+- 🐦 [Twitter](https://x.com/leonardoDroii) 
 
 ---
 
