@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 ¡Hola, soy [Tu Nombre]!
+## 🚀 Desarrollador de Software | 🔒 Especialista en Seguridad | 🌌 Explorador de tecnologías
 
-<!--
-**nilfredb/nilfredb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📜 Sobre mí
+- 🌱 Actualmente estoy aprendiendo **React y Ciberseguridad**.
+- 💡 Me apasiona crear soluciones innovadoras con Python y JavaScript.
+- 🌟 Disfruto trabajar en proyectos como:
+  - 🔐 Herramientas de auditoría de seguridad.
+  - 🌐 Sitios web modernos y optimizados.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+
